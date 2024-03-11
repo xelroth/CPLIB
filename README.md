@@ -1,4 +1,16 @@
-## CPanel Library Documentation 📚
+### Instalization ♨️
+First You Have To Clone This Responsitory Using The Following Command
+
+```
+git clone https://github.com/xelroth/CPLIB/
+```
+If You Are Using Windows You Have To Download Files Or Download The Archived File
+Then Use The Following Command For Installing The Library And Required Libraris
+```
+Python3 setup.py install
+```
+
+## CPLIB Documentation 📚
 
 ### CPanel Class:
 Constructor
@@ -267,4 +279,5 @@ print(result)
 
 Feel free to add more descriptive details, examples, or usage instructions to make the documentation more comprehensive and user-friendly. Happy coding! 📝
 If You Enjoy Using This Library, Then Dont Forget TO Give A Star To It! 🌟
+
 ⚠️ THIS PROJECT IS UNDER MIT LICENSE! FOLLOW THE LICENSE FILE TO GET MORE INFORMATION ⚠️
